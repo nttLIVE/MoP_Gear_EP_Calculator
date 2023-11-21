@@ -1,2 +1,4 @@
-# MoP_Gear_EP_Calculator
+# MoP Gear EP Calculator
+
+Download the repository and open Gear EP Calculator.xlsm
  
